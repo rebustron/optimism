@@ -8,7 +8,7 @@ It accepts:
 It can be triggered from the Github Actions panel in the monorepo
 
 # Tag Tool
-Tag Tool is a minimal rewrite of the Tag Service to let operators prepare and commit tags from commandline
+Tag Tool is a minimal rewrite of the Tag Service to let operators prepare and commit tags from command line
 It accepts:
 * Service name
 * Bump Amount [major, minor, patch, prerelease, finalize-prerelease]
